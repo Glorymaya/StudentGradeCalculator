@@ -24,6 +24,7 @@ We both do the same things but in different languages.
 - **Exercise1.kt** - Higher-order function processList
 - **Exercise2.kt** - Transforming words into a map
 - **Exercise3.kt** - Average age calculation
+- **WasteWatch.kt** - WasteWatch Smart Waste Management System for HYSACAM
 
 ---
 
