@@ -1,4 +1,5 @@
 fun main() {
+    println("=== Student Grade Calculator ===")
     print("Enter student name: ")
     val name = readLine()
 
